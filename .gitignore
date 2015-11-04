@@ -12,6 +12,12 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+/*.psd
+/*.asset
+/*.prefab
+/*.jpg
+/*.FBX
+/*.mat
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
